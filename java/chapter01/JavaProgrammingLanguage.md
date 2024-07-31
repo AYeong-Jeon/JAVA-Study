@@ -144,7 +144,7 @@ Runtime Data Area(런타임 데이터 영역)은 JVM의 메모리 영역으로 �
 
 </aside>
 
-**JRE는 자바 실행 환경(Java Runtime Environment)**의 약자로, 자바로 만들어진 프로그램을 실행시키는데 필요한 라이브러리들과 각종 API, JVM이 포함되어 있다.
+JRE는 자바 실행 환경(Java Runtime Environment)의 약자로, 자바로 만들어진 프로그램을 실행시키는데 필요한 라이브러리들과 각종 API, JVM이 포함되어 있다.
 
-**JDK는 자바 개발 키트(Java Development Kit)**로 개발 시 필요한 라이브러리들, javac, javadoc 등의 개발도구를 포함하고 있고 JRE도 함께 포함되어 있다.
+JDK는 자바 개발 키트(Java Development Kit)로 개발 시 필요한 라이브러리들, javac, javadoc 등의 개발도구를 포함하고 있고 JRE도 함께 포함되어 있다.
 <img src="../../image/5.png">
